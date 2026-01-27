@@ -10,7 +10,8 @@ Topics: Python, NumPy, Pandas, data cleaning, visualization, and ML foundations.
 - reports/   : figures and short reports
 
 ## Progress
-- [ ] Python basics
+- Python Basics
+  - [x] Variables & Math (Distance Calculator)
 - [ ] NumPy basics
 - [ ] Pandas + data cleaning
 - [ ] Visualization
